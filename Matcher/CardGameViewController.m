@@ -14,16 +14,11 @@
 
 @implementation CardGameViewController
 
-- (void)viewDidLoad
+- (IBAction)touchCardButton:(UIButton *)sender
 {
-    [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    UIImage *cardImage = [UIImage imageNamed:@"cardback"];
+    [sender setBackg]
 }
 
-- (void)didReceiveMemoryWarning
-{
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
-}
 
 @end

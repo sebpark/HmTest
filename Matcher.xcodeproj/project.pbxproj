@@ -112,8 +112,6 @@
 		9ECD0DE0189B2152004B68D4 /* Matcher */ = {
 			isa = PBXGroup;
 			children = (
-				9ECD0DE9189B2152004B68D4 /* CardGameAppDelegate.h */,
-				9ECD0DEA189B2152004B68D4 /* CardGameAppDelegate.m */,
 				9ECD0DEC189B2152004B68D4 /* Main.storyboard */,
 				9ECD0DEF189B2152004B68D4 /* CardGameViewController.h */,
 				9ECD0DF0189B2152004B68D4 /* CardGameViewController.m */,
@@ -126,6 +124,8 @@
 		9ECD0DE1189B2152004B68D4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				9ECD0DE9189B2152004B68D4 /* CardGameAppDelegate.h */,
+				9ECD0DEA189B2152004B68D4 /* CardGameAppDelegate.m */,
 				9ECD0DE2189B2152004B68D4 /* Matcher-Info.plist */,
 				9ECD0DE3189B2152004B68D4 /* InfoPlist.strings */,
 				9ECD0DE6189B2152004B68D4 /* main.m */,
